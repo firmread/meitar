@@ -22,8 +22,8 @@ class testApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 				
-		bool						oneShot;
-		bool						pdfRendering;
+		bool oneShot;
+		bool pdfRendering;
     
 
 };
